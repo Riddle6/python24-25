@@ -1,7 +1,7 @@
 # Ask the user for 5 numbers and calculates the sum. Remember about the exceptions
 try:   
     result = None
-    # The result and all nums are default to None if a user decides to input an invalid value.
+    # The result and all nums are default to None if a user decides to input an invalid value
     num1 = None
     num2 = None
     num3 = None
